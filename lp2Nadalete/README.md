@@ -5,12 +5,12 @@
 
 ## :clipboard: Forma de utilizar:
 * Clonar ou baixar o repositório do projeto;
-* No postman importar o arquivo  _"collection-leilaoLp2.json"_  que está disponível na raiz do projeto;
+* No postman importar o arquivo  _"collection-leilaoLp2.json"_  que está disponível na raiz;
 * Importar o projeto pelo Maven na IDE de preferência (Eclipse, Visual Studio Code, etc...)
 * Rodar o projeto em  Application que se encontra no package org.example;
 * Com o projeto ativo é possivel realizar testes, utilizando o postman enviando requisições (Post,Put, Get,Delete). 
 * O banco de dados é h2 ou seja aas informações só ficaram diponivel durante o uso da solução.
-* Após iniciar  o projeto a documentação das APIs está disponivel em :http://localhost:8080/swagger-ui/index.html
+* Após iniciar  o projeto a documentação das APIs está disponivel em : https://app.swaggerhub.com/apis/CARLOSFERNANDOS1000_1/LpNadaleteAPI/1.0.0
 * **OBSERVAÇÃO:** Os tipos de dispositivos de informática e tipos de veiculos são as especificadas nos requisitos
 
 ## :clipboard: Passo a passo cadastros:
